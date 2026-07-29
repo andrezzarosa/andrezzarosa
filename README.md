@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,45:F2305F,75:FEA862,100:3D257C&height=200&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,25:FF757B,50:FEA862,75:3D257C,100:28BEC5&height=200&section=header"/>
+
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/name-glow.svg"/>
 
 <br/>
 
-<h1>Andrezza Rosa 🧜‍♀️</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F2305F&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+da+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design;Vivendo+em+estado+de+sere%C3%ADsmo"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/typing-cycle.svg"/>
 
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-F2305F?style=for-the-badge&labelColor=3D257C)
 ![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-F2305F?style=for-the-badge&labelColor=28BEC5)
@@ -105,4 +105,4 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D257C,25:FEA862,55:F2305F,100:F2305F&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28BEC5,25:3D257C,50:FEA862,75:FF757B,100:F2305F&height=100&section=footer"/>
