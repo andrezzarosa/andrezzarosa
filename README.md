@@ -29,7 +29,7 @@
 
 ## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Sobre
 
-Idealizadora e desenvolvedora do **SAIQA**, sistema de avaliação integrada da qualidade ambiental. Combino desenvolvimento web com pesquisa aplicada à qualidade da água.
+Idealizadora e desenvolvedora da **SAIQA**, sistema de avaliação integrada da qualidade ambiental. Combino desenvolvimento web com pesquisa aplicada à qualidade da água.
 
 <br/>
 
