@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="110" viewBox="0 0 620 110">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F2305F">
+        <animate attributeName="offset" values="0;0.3;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%" stop-color="#FF757B"/>
+      <stop offset="50%" stop-color="#FEA862"/>
+      <stop offset="75%" stop-color="#3D257C"/>
+      <stop offset="100%" stop-color="#28BEC5">
+        <animate attributeName="offset" values="1;0.7;1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur1"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="310" y="65" font-family="Fira Code, monospace" font-size="52" font-weight="700" fill="url(#nameGrad)" text-anchor="middle" filter="url(#glow)">
+    Andrezza Rosa
+  </text>
+  <text x="310" y="98" font-family="Fira Code, monospace" font-size="20" fill="url(#nameGrad)" text-anchor="middle" opacity="0.9">
+    ✨ 🧜‍♀️ ✨
+  </text>
+</svg>
