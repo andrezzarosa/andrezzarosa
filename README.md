@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,35:FEA862,70:28BEC5,100:3D257C&height=200&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,45:F2305F,75:FEA862,100:3D257C&height=200&section=header"/>
 
 <br/>
 
 <h1>Andrezza Rosa 🧜‍♀️</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FEA862&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+da+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design;Sereia+no+Illustrator%2C+n%C3%A3o+no+mar"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F2305F&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+da+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design;Vivendo+em+estado+de+sere%C3%ADsmo"/>
 
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-F2305F?style=for-the-badge&labelColor=3D257C)
-![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-28BEC5?style=for-the-badge&labelColor=3D257C)
-![Views](https://komarev.com/ghpvc/?username=andrezzarosa&style=for-the-badge&color=FEA862&labelColor=3D257C)
+![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-F2305F?style=for-the-badge&labelColor=28BEC5)
+![Views](https://komarev.com/ghpvc/?username=andrezzarosa&style=for-the-badge&color=F2305F&labelColor=3D257C)
 
 </div>
 
@@ -21,8 +21,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2305F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3D257C)](https://www.linkedin.com/in/andrezza-af-rosa)
-[![Lattes](https://img.shields.io/badge/Lattes-FEA862?style=for-the-badge&labelColor=3D257C)](http://lattes.cnpq.br/8331925814310721)
-[![Email](https://img.shields.io/badge/Email-28BEC5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3D257C)](mailto:andrezzarosa@saiqa.online)
+[![Lattes](https://img.shields.io/badge/Lattes-F2305F?style=for-the-badge&labelColor=FEA862)](http://lattes.cnpq.br/8331925814310721)
+[![Email](https://img.shields.io/badge/Email-F2305F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=28BEC5)](mailto:andrezzarosa@saiqa.online)
 
 </div>
 
@@ -46,8 +46,8 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé 
 
 <br/>
 
-[![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-28BEC5?style=for-the-badge&labelColor=3D257C)](https://github.com/saiqa-org)
-[![saiqa.online](https://img.shields.io/badge/saiqa.online-FEA862?style=for-the-badge&labelColor=3D257C)](https://saiqa.online)
+[![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-F2305F?style=for-the-badge&labelColor=28BEC5)](https://github.com/saiqa-org)
+[![saiqa.online](https://img.shields.io/badge/saiqa.online-F2305F?style=for-the-badge&labelColor=FEA862)](https://saiqa.online)
 
 </div>
 
@@ -58,10 +58,10 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-F2305F?style=for-the-badge&logo=html5&logoColor=white&labelColor=3D257C)
-![CSS3](https://img.shields.io/badge/CSS3-28BEC5?style=for-the-badge&logo=css3&logoColor=white&labelColor=3D257C)
+![CSS3](https://img.shields.io/badge/CSS3-F2305F?style=for-the-badge&logo=css3&logoColor=white&labelColor=28BEC5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FEA862?style=for-the-badge&logo=javascript&logoColor=black&labelColor=3D257C)
 ![Electron](https://img.shields.io/badge/Electron-587FA5?style=for-the-badge&logo=electron&logoColor=white&labelColor=3D257C)
-![Firebase](https://img.shields.io/badge/Firebase-FEA862?style=for-the-badge&logo=firebase&logoColor=black&labelColor=3D257C)
+![Firebase](https://img.shields.io/badge/Firebase-F2305F?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FEA862)
 
 </div>
 
@@ -71,11 +71,11 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrezzarosa&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2305F&icon_color=28BEC5&text_color=E7D8D7&ring_color=FEA862" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrezzarosa&hide_border=true&background=00000000&ring=F2305F&fire=FEA862&currStreakLabel=28BEC5&sideLabels=E7D8D7&dates=E7D8D7&currStreakNum=E7D8D7&sideNums=E7D8D7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andrezzarosa&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2305F&icon_color=F2305F&text_color=E7D8D7&ring_color=F2305F" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrezzarosa&hide_border=true&background=00000000&ring=F2305F&fire=F2305F&currStreakLabel=F2305F&sideLabels=E7D8D7&dates=E7D8D7&currStreakNum=E7D8D7&sideNums=E7D8D7" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzarosa&layout=compact&hide_border=true&bg_color=00000000&title_color=F2305F&text_color=E7D8D7&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezzarosa&hide_border=true&bg_color=00000000&color=FEA862&line=F2305F&point=28BEC5&area_color=F2305F&area=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezzarosa&hide_border=true&bg_color=00000000&color=FEA862&line=F2305F&point=F2305F&area_color=F2305F&area=true" width="49%"/>
 
 </div>
 
@@ -105,4 +105,4 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D257C,35:28BEC5,70:FEA862,100:F2305F&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D257C,25:FEA862,55:F2305F,100:F2305F&height=100&section=footer"/>
