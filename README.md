@@ -13,6 +13,18 @@
 
 <br/>
 
+## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EE3D8C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5B3FA6)](https://www.linkedin.com/in/andrezza-af-rosa)
+[![Lattes](https://img.shields.io/badge/Lattes-F7A94C?style=for-the-badge&labelColor=5B3FA6)](http://lattes.cnpq.br/8331925814310721)
+[![Email](https://img.shields.io/badge/Email-1E9C8B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5B3FA6)](mailto:andrezzarosa@saiqa.online)
+
+</div>
+
+<br/>
+
 ## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Sobre
 
 Idealizadora e desenvolvedora do **SAIQA**, sistema de avaliação integrada da qualidade ambiental. Combino desenvolvimento web com pesquisa aplicada à qualidade da água.
@@ -49,15 +61,5 @@ Idealizadora e desenvolvedora do **SAIQA**, sistema de avaliação integrada da 
 </div>
 
 <br/>
-
-## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EE3D8C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5B3FA6)](https://www.linkedin.com/in/andrezza-af-rosa)
-[![Lattes](https://img.shields.io/badge/Lattes-F7A94C?style=for-the-badge&labelColor=5B3FA6)](http://lattes.cnpq.br/8331925814310721)
-[![Email](https://img.shields.io/badge/Email-1E9C8B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5B3FA6)](mailto:andrezzarosa@saiqa.online)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E9C8B,35:F7A94C,70:EE3D8C,100:5B3FA6&height=100&section=footer" width="100%"/>
