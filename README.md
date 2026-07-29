@@ -6,6 +6,8 @@
 
 <h1>Andrezza Rosa</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=EE3D8C&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+do+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design"/>
+
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-EE3D8C?style=for-the-badge&labelColor=5B3FA6)
 ![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-1E9C8B?style=for-the-badge&labelColor=5B3FA6)
 
@@ -57,6 +59,20 @@ Idealizadora e desenvolvedora do **SAIQA**, sistema de avaliação integrada da 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+<br/>
+
+## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Atividade
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/output/github-contribution-grid-snake.svg">
+  <img alt="snake animada do gráfico de contribuições" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
