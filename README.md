@@ -7,7 +7,7 @@
 <h1>Andrezza Rosa</h1>
 
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-EE3D8C?style=for-the-badge&labelColor=5B3FA6)
-![SAIQA](https://img.shields.io/badge/criadora%20do-SAIQA-1E9C8B?style=for-the-badge&labelColor=5B3FA6)
+![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-1E9C8B?style=for-the-badge&labelColor=5B3FA6)
 
 </div>
 
