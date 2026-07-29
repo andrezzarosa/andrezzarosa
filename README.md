@@ -6,7 +6,7 @@
 
 <h1>Andrezza Rosa</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=EE3D8C&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+do+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=EE3D8C&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+da+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design"/>
 
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-EE3D8C?style=for-the-badge&labelColor=5B3FA6)
 ![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-1E9C8B?style=for-the-badge&labelColor=5B3FA6)
