@@ -1,41 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3FA6,35:EE3D8C,70:F7A94C,100:1E9C8B&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,35:FEA862,70:28BEC5,100:3D257C&height=200&section=header"/>
 
 <br/>
 
-<h1>Andrezza Rosa</h1>
+<h1>Andrezza Rosa 🧜‍♀️</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=EE3D8C&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+da+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FEA862&center=true&vCenter=true&width=520&lines=Idealizadora+%26+desenvolvedora+da+SAIQA;Qualidade+da+%C3%A1gua%2C+dados+e+design;Sereia+no+Illustrator%2C+n%C3%A3o+no+mar"/>
 
-![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-EE3D8C?style=for-the-badge&labelColor=5B3FA6)
-![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-1E9C8B?style=for-the-badge&labelColor=5B3FA6)
+![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-F2305F?style=for-the-badge&labelColor=3D257C)
+![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-28BEC5?style=for-the-badge&labelColor=3D257C)
+![Views](https://komarev.com/ghpvc/?username=andrezzarosa&style=for-the-badge&color=FEA862&labelColor=3D257C)
 
 </div>
 
 <br/>
 
-## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Contato
+## 🐚 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EE3D8C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5B3FA6)](https://www.linkedin.com/in/andrezza-af-rosa)
-[![Lattes](https://img.shields.io/badge/Lattes-F7A94C?style=for-the-badge&labelColor=5B3FA6)](http://lattes.cnpq.br/8331925814310721)
-[![Email](https://img.shields.io/badge/Email-1E9C8B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5B3FA6)](mailto:andrezzarosa@saiqa.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F2305F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3D257C)](https://www.linkedin.com/in/andrezza-af-rosa)
+[![Lattes](https://img.shields.io/badge/Lattes-FEA862?style=for-the-badge&labelColor=3D257C)](http://lattes.cnpq.br/8331925814310721)
+[![Email](https://img.shields.io/badge/Email-28BEC5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3D257C)](mailto:andrezzarosa@saiqa.online)
 
 </div>
 
 <br/>
 
-## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Sobre
+## 🐚 Sobre
 
 Idealizadora e desenvolvedora da **SAIQA** – Sistema de Avaliação Integrada da Qualidade Ambiental.
 
-Combina desenvolvimento web com pesquisa aplicada à qualidade da água.
+Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé no código, outro na concha. 🧜‍♀️✨
 
 <br/>
 
-## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Projeto em destaque
+## 🐚 Projeto em destaque
 
 <div align="center">
 
@@ -45,28 +46,52 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água.
 
 <br/>
 
-[![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-1E9C8B?style=for-the-badge&labelColor=5B3FA6)](https://github.com/saiqa-org)
-[![saiqa.online](https://img.shields.io/badge/saiqa.online-F7A94C?style=for-the-badge&labelColor=5B3FA6)](https://saiqa.online)
+[![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-28BEC5?style=for-the-badge&labelColor=3D257C)](https://github.com/saiqa-org)
+[![saiqa.online](https://img.shields.io/badge/saiqa.online-FEA862?style=for-the-badge&labelColor=3D257C)](https://saiqa.online)
 
 </div>
 
 <br/>
 
-## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Stack
+## 🐚 Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-F2305F?style=for-the-badge&logo=html5&logoColor=white&labelColor=3D257C)
+![CSS3](https://img.shields.io/badge/CSS3-28BEC5?style=for-the-badge&logo=css3&logoColor=white&labelColor=3D257C)
+![JavaScript](https://img.shields.io/badge/JavaScript-FEA862?style=for-the-badge&logo=javascript&logoColor=black&labelColor=3D257C)
+![Electron](https://img.shields.io/badge/Electron-587FA5?style=for-the-badge&logo=electron&logoColor=white&labelColor=3D257C)
+![Firebase](https://img.shields.io/badge/Firebase-FEA862?style=for-the-badge&logo=firebase&logoColor=black&labelColor=3D257C)
 
 </div>
 
 <br/>
 
-## <img src="https://saiqa.online/assets/saiqa_lupa.svg" width="24" valign="middle"/> Atividade
+## 🐚 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andrezzarosa&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2305F&icon_color=28BEC5&text_color=E7D8D7&ring_color=FEA862" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrezzarosa&hide_border=true&background=00000000&ring=F2305F&fire=FEA862&currStreakLabel=28BEC5&sideLabels=E7D8D7&dates=E7D8D7&currStreakNum=E7D8D7&sideNums=E7D8D7" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzarosa&layout=compact&hide_border=true&bg_color=00000000&title_color=F2305F&text_color=E7D8D7&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezzarosa&hide_border=true&bg_color=00000000&color=FEA862&line=F2305F&point=28BEC5&area_color=F2305F&area=true" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🐚 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=andrezzarosa&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+## 🐚 Atividade
 
 <div align="center">
 
@@ -80,4 +105,4 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E9C8B,35:F7A94C,70:EE3D8C,100:5B3FA6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D257C,35:28BEC5,70:FEA862,100:F2305F&height=100&section=footer"/>
