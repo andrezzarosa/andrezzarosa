@@ -30,9 +30,9 @@
 
 ## 🐚 Sobre
 
-Idealizadora e desenvolvedora da **SAIQA** – Sistema de Avaliação Integrada da Qualidade Ambiental.
+Dev, pesquisadora e designer — hoje tocando a **SAIQA**, Sistema de Avaliação Integrada da Qualidade Ambiental, mas sempre com a cabeça em vários projetos ao mesmo tempo.
 
-Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé no código, outro na concha. 🧜‍♀️✨
+Transito entre código, dados e visual sem muita cerimônia. Um pé no código, outro na concha. 🧜‍♀️✨
 
 <br/>
 
@@ -76,16 +76,6 @@ Combina desenvolvimento web com pesquisa aplicada à qualidade da água. Um pé 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzarosa&layout=compact&hide_border=true&bg_color=00000000&title_color=F2305F&text_color=E7D8D7&langs_count=8" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezzarosa&hide_border=true&bg_color=00000000&color=FEA862&line=F2305F&point=F2305F&area_color=F2305F&area=true" width="49%"/>
-
-</div>
-
-<br/>
-
-## 🐚 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=andrezzarosa&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
