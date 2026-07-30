@@ -22,3 +22,4 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
           config_timezone: America/Sao_Paulo
+          config_theme: dark
