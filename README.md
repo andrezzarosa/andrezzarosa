@@ -17,7 +17,7 @@
 
 <br/>
 
-## <img width="64" valign="middle" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/buzio.svg" alt=""/> Contato
+<h2><img width="64" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/buzio.svg" alt="" style="vertical-align:middle"/> Contato</h2>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/concha-perola.png" width="90" alt="Concha com pérola"/>
@@ -35,7 +35,7 @@
 
 <br/>
 
-## <img width="64" valign="middle" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/concha-espiral.svg" alt=""/> Sobre
+<h2><img width="64" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/concha-espiral.svg" alt="" style="vertical-align:middle"/> Sobre</h2>
 
 <img align="right" width="140" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cauda-sereia.png" alt="Ilustração de cauda de sereia nas cores da paleta sereia"/>
 
@@ -45,7 +45,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br clear="right"/>
 
-## <img width="64" valign="middle" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/coral-1.svg" alt=""/> Projeto em destaque
+<h2><img width="64" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/coral-1.svg" alt="" style="vertical-align:middle"/> Projeto em destaque</h2>
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-## <img width="64" valign="middle" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/estrela-do-mar.svg" alt=""/> Stack
+<h2><img width="64" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/estrela-do-mar.svg" alt="" style="vertical-align:middle"/> Stack</h2>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-## <img width="64" valign="middle" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/onda-tripla.svg" alt=""/> Métricas
+<h2><img width="64" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/onda-tripla.svg" alt="" style="vertical-align:middle"/> Métricas</h2>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-## <img width="64" valign="middle" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/cavalo-marinho.svg" alt=""/> Atividade
+<h2><img width="64" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/cavalo-marinho.svg" alt="" style="vertical-align:middle"/> Atividade</h2>
 
 <div align="center">
 
