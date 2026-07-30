@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/typing-cycle.svg" alt="Idealizadora e desenvolvedora da SAIQA — dados, design e tarefas — sereia no Illustrator, não no mar"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/typing-cycle.svg" alt="Idealizadora e desenvolvedora da SAIQA, dados design e tarefas, vivendo em estado de sereismo"/>
 
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-F2305F?style=for-the-badge&labelColor=3D257C)
 ![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-F2305F?style=for-the-badge&labelColor=0EC6BA)
@@ -51,7 +51,7 @@
 
 <img align="right" width="140" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cauda-sereia.png" alt="Ilustração de cauda de sereia nas cores da paleta sereia"/>
 
-Dev, pesquisadora e designer — hoje tocando a **SAIQA**, Sistema de Avaliação Integrada da Qualidade Ambiental, mas sempre com a cabeça em vários projetos ao mesmo tempo.
+Dev, pesquisadora e designer, hoje tocando a **SAIQA**, Sistema de Avaliação Integrada da Qualidade Ambiental, mas sempre com a cabeça em vários projetos ao mesmo tempo.
 
 Transito entre código, dados e visual sem muita cerimônia. Um pé no código, outro na concha. 🧜‍♀️✨
 
