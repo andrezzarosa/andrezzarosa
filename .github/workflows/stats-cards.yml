@@ -17,9 +17,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=andrezzarosa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F2305F&icon_color=0EC6BA&text_color=EAEAEA&ring_color=FFAB16
+          options: username=andrezzarosa&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F2305F&icon_color=0EC6BA&text_color=EAEAEA&ring_color=FFAB16
           path: .github/cards/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: username=andrezzarosa&layout=compact&hide_border=true&bg_color=0D1117&title_color=F2305F&text_color=EAEAEA&langs_count=6
           path: .github/cards/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
         run: |
