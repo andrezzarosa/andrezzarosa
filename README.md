@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/buzio.svg" alt="Búzio"/>
+<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/buzio.svg?v=2" alt="Búzio"/>
 </div>
 
 ## Contato
@@ -40,7 +40,7 @@
 <br/>
 
 <div align="center">
-<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/concha-espiral.svg" alt="Concha espiral"/>
+<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/concha-espiral.svg?v=2" alt="Concha espiral"/>
 </div>
 
 ## Sobre
@@ -54,7 +54,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 <br clear="right"/>
 
 <div align="center">
-<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/coral-1.svg" alt="Coral"/>
+<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/coral-1.svg?v=2" alt="Coral"/>
 </div>
 
 ## Projeto em destaque
@@ -75,7 +75,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 <br/>
 
 <div align="center">
-<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/estrela-do-mar.svg" alt="Estrela do mar"/>
+<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/estrela-do-mar.svg?v=2" alt="Estrela do mar"/>
 </div>
 
 ## Stack
@@ -93,7 +93,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 <br/>
 
 <div align="center">
-<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/onda-tripla.svg" alt="Onda"/>
+<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/onda-tripla.svg?v=2" alt="Onda"/>
 </div>
 
 ## Métricas
@@ -107,7 +107,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 <br/>
 
 <div align="center">
-<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/cavalo-marinho.svg" alt="Cavalo-marinho"/>
+<img width="72" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/cavalo-marinho.svg?v=2" alt="Cavalo-marinho"/>
 </div>
 
 ## Atividade
