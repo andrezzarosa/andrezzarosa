@@ -73,9 +73,23 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
+<table><tr>
+<td align="center">
+
 [![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-F2305F?style=for-the-badge&labelColor=0EC6BA)](https://github.com/saiqa-org)
+<sub>Todos os repositórios da SAIQA</sub>
+</td>
+<td align="center">
+
 [![saiqa.online](https://img.shields.io/badge/saiqa.online-F2305F?style=for-the-badge&labelColor=F67E0E)](https://saiqa.online)
+<sub>Acesse a ferramenta</sub>
+</td>
+<td align="center">
+
 [![Conheça a SAIQA](https://img.shields.io/badge/conhe%C3%A7a%20a%20SAIQA-F2305F?style=for-the-badge&labelColor=3D257C)](https://saiqa.online/conhecaasaiqa/)
+<sub>Sobre o projeto</sub>
+</td>
+</tr></table>
 
 </div>
 
