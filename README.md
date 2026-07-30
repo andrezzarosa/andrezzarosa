@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,25:FF757B,50:FEA862,75:3D257C,100:28BEC5&height=200&section=header" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2305F,16:D84F83,33:3D257C,50:026190,66:0EC6BA,83:2CCC64,100:FFAB16&height=200&section=header" alt=""/>
 
-<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/name-glow.svg" alt="Andrezza Rosa"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/andrezza-rosa-nome.svg" width="480" alt="Andrezza Rosa"/>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/typing-cycle.svg" alt="Idealizadora e desenvolvedora da SAIQA — dados, design e tarefas — sereia no Illustrator, não no mar"/>
 
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-F2305F?style=for-the-badge&labelColor=3D257C)
-![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-F2305F?style=for-the-badge&labelColor=28BEC5)
+![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-F2305F?style=for-the-badge&labelColor=0EC6BA)
 ![Views](https://komarev.com/ghpvc/?username=andrezzarosa&style=for-the-badge&color=F2305F&labelColor=3D257C)
-![Followers](https://img.shields.io/github/followers/andrezzarosa?style=for-the-badge&color=FEA862&labelColor=3D257C&label=seguidores)
+![Followers](https://img.shields.io/github/followers/andrezzarosa?style=for-the-badge&color=F67E0E&labelColor=3D257C&label=seguidores)
 
 </div>
 
 <br/>
 
-## 🐚 Contato
+## <img width="26" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/buzio.svg" alt=""/> Contato
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/concha-perola.png" width="90" alt="Concha com pérola"/>
@@ -26,8 +26,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2305F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3D257C)](https://www.linkedin.com/in/andrezza-af-rosa)
-[![Lattes](https://img.shields.io/badge/Lattes-F2305F?style=for-the-badge&labelColor=FEA862)](http://lattes.cnpq.br/8331925814310721)
-[![Email](https://img.shields.io/badge/Email-F2305F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=28BEC5)](mailto:andrezzarosa@saiqa.online)
+[![Lattes](https://img.shields.io/badge/Lattes-F2305F?style=for-the-badge&labelColor=F67E0E)](http://lattes.cnpq.br/8331925814310721)
+[![Email](https://img.shields.io/badge/Email-F2305F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0EC6BA)](mailto:andrezzarosa@saiqa.online)
 
 **[✉️ Vamos conversar?](mailto:andrezzarosa@saiqa.online)**
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 🐚 Sobre
+## <img width="26" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/concha-espiral.svg" alt=""/> Sobre
 
 <img align="right" width="140" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cauda-sereia.png" alt="Ilustração de cauda de sereia nas cores da paleta sereia"/>
 
@@ -45,7 +45,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br clear="right"/>
 
-## 🐚 Projeto em destaque
+## <img width="26" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/coral-1.svg" alt=""/> Projeto em destaque
 
 <div align="center">
 
@@ -55,28 +55,28 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-[![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-F2305F?style=for-the-badge&labelColor=28BEC5)](https://github.com/saiqa-org)
-[![saiqa.online](https://img.shields.io/badge/saiqa.online-F2305F?style=for-the-badge&labelColor=FEA862)](https://saiqa.online)
+[![saiqa-org](https://img.shields.io/badge/ver%20organiza%C3%A7%C3%A3o-F2305F?style=for-the-badge&labelColor=0EC6BA)](https://github.com/saiqa-org)
+[![saiqa.online](https://img.shields.io/badge/saiqa.online-F2305F?style=for-the-badge&labelColor=F67E0E)](https://saiqa.online)
 
 </div>
 
 <br/>
 
-## 🐚 Stack
+## <img width="26" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/estrela-do-mar.svg" alt=""/> Stack
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-F2305F?style=for-the-badge&logo=html5&logoColor=white&labelColor=3D257C)
-![CSS3](https://img.shields.io/badge/CSS3-F2305F?style=for-the-badge&logo=css3&logoColor=white&labelColor=28BEC5)
-![JavaScript](https://img.shields.io/badge/JavaScript-FEA862?style=for-the-badge&logo=javascript&logoColor=black&labelColor=3D257C)
+![CSS3](https://img.shields.io/badge/CSS3-F2305F?style=for-the-badge&logo=css3&logoColor=white&labelColor=0EC6BA)
+![JavaScript](https://img.shields.io/badge/JavaScript-F67E0E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=3D257C)
 ![Electron](https://img.shields.io/badge/Electron-587FA5?style=for-the-badge&logo=electron&logoColor=white&labelColor=3D257C)
-![Firebase](https://img.shields.io/badge/Firebase-F2305F?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FEA862)
+![Firebase](https://img.shields.io/badge/Firebase-F2305F?style=for-the-badge&logo=firebase&logoColor=white&labelColor=F67E0E)
 
 </div>
 
 <br/>
 
-## 🐚 Métricas
+## <img width="26" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/onda-tripla.svg" alt=""/> Métricas
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-## 🐚 Atividade
+## <img width="26" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/icons/cavalo-marinho.svg" alt=""/> Atividade
 
 <div align="center">
 
@@ -100,4 +100,4 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:28BEC5,25:3D257C,50:FEA862,75:FF757B,100:F2305F&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAB16,17:2CCC64,33:0EC6BA,50:026190,67:3D257C,84:D84F83,100:F2305F&height=100&section=footer" alt=""/>

@@ -2,10 +2,10 @@
   <text x="260" y="20" font-family="Fira Code, monospace" font-size="16" fill="#F2305F" text-anchor="middle" opacity="0">Idealizadora &amp; desenvolvedora da SAIQA
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.0001;0.0333;0.3;0.3333;1.0" dur="12s" repeatCount="indefinite"/>
   </text>
-  <text x="260" y="20" font-family="Fira Code, monospace" font-size="16" fill="#28BEC5" text-anchor="middle" opacity="0">Dados, design e tarefas
+  <text x="260" y="20" font-family="Fira Code, monospace" font-size="16" fill="#0EC6BA" text-anchor="middle" opacity="0">Dados, design e tarefas
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.3333;0.3667;0.6333;0.6667;1.0" dur="12s" repeatCount="indefinite"/>
   </text>
-  <text x="260" y="20" font-family="Fira Code, monospace" font-size="16" fill="#FEA862" text-anchor="middle" opacity="0">Vivendo em estado de sereismo
+  <text x="260" y="20" font-family="Fira Code, monospace" font-size="16" fill="#FFAB16" text-anchor="middle" opacity="0">Vivendo em estado de sereismo
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0;0.6667;0.7;0.9667;0.9999;1.0" dur="12s" repeatCount="indefinite"/>
   </text>
 </svg>
