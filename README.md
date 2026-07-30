@@ -20,6 +20,10 @@
 ## 🐚 Contato
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/concha-perola.png" width="90" alt="Concha com pérola"/>
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2305F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3D257C)](https://www.linkedin.com/in/andrezza-af-rosa)
 [![Lattes](https://img.shields.io/badge/Lattes-F2305F?style=for-the-badge&labelColor=FEA862)](http://lattes.cnpq.br/8331925814310721)
