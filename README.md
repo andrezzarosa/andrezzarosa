@@ -110,12 +110,12 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/metrics.svg" width="100%" alt="Métricas do GitHub geradas automaticamente"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cards/stats.svg" alt="Estatísticas do GitHub"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cards/top-langs.svg" alt="Linguagens mais usadas"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cards/stats.svg" alt="Estatísticas do GitHub"/>
-<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/cards/top-langs.svg" alt="Linguagens mais usadas"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/metrics.svg" width="100%" alt="Métricas do GitHub geradas automaticamente"/>
 
 </div>
 
