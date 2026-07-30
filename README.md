@@ -140,4 +140,10 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
+<div align="center">
+<img width="180" src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/a-rosa.svg" alt="Assinatura A.Rosa"/>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAB16,17:2CCC64,33:0EC6BA,50:026190,67:3D257C,84:D84F83,100:F2305F&height=100&section=footer" alt=""/>
