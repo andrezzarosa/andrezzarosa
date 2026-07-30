@@ -21,14 +21,6 @@ jobs:
           path: .github/cards/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=andrezzarosa&layout=compact&hide_border=true&bg_color=0D1117&title_color=F2305F&text_color=EAEAEA&langs_count=6
-          path: .github/cards/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
