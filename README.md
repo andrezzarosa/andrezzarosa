@@ -11,6 +11,7 @@
 ![Idealizadora](https://img.shields.io/badge/idealizadora%20%26%20desenvolvedora-F2305F?style=for-the-badge&labelColor=3D257C)
 ![SAIQA](https://img.shields.io/badge/criadora%20da-SAIQA-F2305F?style=for-the-badge&labelColor=28BEC5)
 ![Views](https://komarev.com/ghpvc/?username=andrezzarosa&style=for-the-badge&color=F2305F&labelColor=3D257C)
+![Followers](https://img.shields.io/github/followers/andrezzarosa?style=for-the-badge&color=FEA862&labelColor=3D257C&label=seguidores)
 
 </div>
 
@@ -67,15 +68,11 @@ Transito entre código, dados e visual sem muita cerimônia. Um pé no código, 
 
 <br/>
 
-## 🐚 GitHub Stats
+## 🐚 Métricas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrezzarosa&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2305F&icon_color=F2305F&text_color=E7D8D7&ring_color=F2305F" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrezzarosa&hide_border=true&background=00000000&ring=F2305F&fire=F2305F&currStreakLabel=F2305F&sideLabels=E7D8D7&dates=E7D8D7&currStreakNum=E7D8D7&sideNums=E7D8D7" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzarosa&layout=compact&hide_border=true&bg_color=00000000&title_color=F2305F&text_color=E7D8D7&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezzarosa&hide_border=true&bg_color=00000000&color=FEA862&line=F2305F&point=F2305F&area_color=F2305F&area=true" width="49%"/>
+<img src="https://raw.githubusercontent.com/andrezzarosa/andrezzarosa/main/.github/metrics.svg" width="100%"/>
 
 </div>
 
